@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+.text {
+  font-family: cursive;
+}
+.text-bold {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.text-green {
+  color: rgb(8, 88, 94);
+}
+.text:link {
+  text-decoration: none;
+}
+
+.text:visited {
+  text-decoration: none;
+}
+
+.text:hover {
+  text-decoration: none;
+}
+
+.text:active {
+  text-decoration: none;
+}
